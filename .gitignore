@@ -1,0 +1,18 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Dependencies
+/vendor/
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
