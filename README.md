@@ -14,7 +14,7 @@ Each script or snippet is self-contained and documented directly in its source f
 
 Scripts and snippets will be listed here as they are added to the toolbox.
 
-- [`exclude-private-posts-from-search.php`](wordpress/exclude-private-posts-from-search.php) - Excludes private posts from WordPress front-end search results.
+- [`exclude-private-content-from-search.php`](wordpress/exclude-private-content-from-search.php) - Excludes private content from WordPress front-end search results.
 
 ## Disclaimer
 
