@@ -17,6 +17,16 @@ Scripts and snippets will be listed here as they are added to the toolbox.
 - [`wordpress/exclude-private-content-from-search.php`](wordpress/exclude-private-content-from-search.php) - Excludes private content from WordPress front-end search results.
 - [`wordpress/require-user-first-name.php`](wordpress/require-user-first-name.php) - Makes the native WordPress first name field required when updating user profiles.
 
+## Versioning
+
+This repository follows [Semantic Versioning](https://semver.org/).
+
+Each snippet has its own version number, documented in its source file.
+
+The toolbox also has a global version, updated periodically to group multiple changes into a single release.
+
+All notable changes are documented in the [Changelog](CHANGELOG.md), following the [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) convention.
+
 ## Disclaimer
 
 The scripts and snippets in this repository are provided "as is", without warranty of any kind.

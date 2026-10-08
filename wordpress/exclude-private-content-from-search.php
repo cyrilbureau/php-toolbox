@@ -7,6 +7,8 @@
  * including for logged-in users who would normally be allowed to see
  * private content.
  *
+ * Version: 1.0.0
+ *
  * Requirements:
  * - PHP 7.1+
  * - WordPress 4.0+

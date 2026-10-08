@@ -7,6 +7,8 @@
  * edited by an administrator. Adds required to the first name field, using
  * native browser validation without changing other fields.
  *
+ * Version: 1.0.0
+ *
  * Requirements:
  * - PHP 7.1+
  * - WordPress 4.0+
