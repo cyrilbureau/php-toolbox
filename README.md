@@ -15,6 +15,7 @@ Each script or snippet is self-contained and documented directly in its source f
 Scripts and snippets will be listed here as they are added to the toolbox.
 
 - [`wordpress/exclude-private-content-from-search.php`](wordpress/exclude-private-content-from-search.php) - Excludes private content from WordPress front-end search results.
+- [`wordpress/require-user-first-name.php`](wordpress/require-user-first-name.php) - Makes the native WordPress first name field required when updating user profiles.
 
 ## Disclaimer
 
